@@ -169,7 +169,9 @@ Tabla de tiempos
 Tiempos en milisegundos, tomados del panel de respuesta de Postman.
 
 Condición	Prueba 1	Prueba 2	Prueba 3	Prueba 4	Prueba 5	Promedio
+
 Sin caché	_4.09_ ms	_39.69_ ms	_2.36_ ms	_4.54_ ms	_2.78_ ms	_10.692_ ms
+
 Con caché	_0.22_ ms	_0.22_ ms	_0.17_ ms	_0.13_ ms	_0.45_ ms	_0.238_ ms
 
 Evidencia
